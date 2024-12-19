@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: business-behavior-monitor-test
+  profiles:
+    active: dev

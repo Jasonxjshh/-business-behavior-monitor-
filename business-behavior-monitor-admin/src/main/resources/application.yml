@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: business-behavior-monitor
+  profiles:
+    active: dev
